@@ -1,0 +1,26 @@
+*{
+    background-color: beige;
+}
+.nav-navbar{
+    background-color: aquamarine;
+}
+nav .abc{
+    background-color: aqua;
+    text-align: right;
+    text-decoration: none;
+    word-spacing: 10cm;
+}
+.abc{
+    text-align: right;
+    text-decoration: none;
+    word-spacing: 10cm;
+}
+li a{
+    text-align: right;
+    text-decoration: none;
+    word-spacing: 10cm;
+}
+.title{
+    background-color: aqua;
+    
+}
